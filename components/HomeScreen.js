@@ -169,9 +169,10 @@ function HomeScreen() {
                     blending innovation and user-friendly features, Agbero
                     revolutionizes the way you travel. From efficient
                     ride-hailing services to long distance travels, this app
-                    helps to optimize your time and earn at the same time. Don't
-                    miss out on this transformative experience – download Agbero
-                    now and elevate your travel game to new heights.
+                    helps to optimize your time and earn at the same time.
+                    Don`&apos;`t miss out on this transformative experience –
+                    download Agbero now and elevate your travel game to new
+                    heights.
                   </Typography>
                   <Button
                     size="small"
@@ -202,9 +203,9 @@ function HomeScreen() {
                     tracking feature. Effortlessly track your ride as it
                     approaches your location, ensuring you're always informed
                     and ready. Experience peace of mind and optimal convenience
-                    with Agbero's reliable and accurate real-time tracking.
-                    Download the app now and enjoy the power of staying
-                    connected every step of the way.
+                    with Agbero &apos;s reliable and accurate real-time
+                    tracking. Download the app now and enjoy the power of
+                    staying connected every step of the way.
                   </Typography>
                 </div>
               </div>
