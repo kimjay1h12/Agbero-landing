@@ -199,13 +199,13 @@ function HomeScreen() {
                 </Typography>
                 <div style={{ marginTop: 27 }}>
                   <Typography variant="caption">
-                    Stay in control of your journey with Agbero's real-time
+                    Stay in control of your journey with Agbero&apos;s real-time
                     tracking feature. Effortlessly track your ride as it
-                    approaches your location, ensuring you're always informed
-                    and ready. Experience peace of mind and optimal convenience
-                    with Agbero &apos;s reliable and accurate real-time
-                    tracking. Download the app now and enjoy the power of
-                    staying connected every step of the way.
+                    approaches your location, ensuring you&apos;re always
+                    informed and ready. Experience peace of mind and optimal
+                    convenience with Agbero &apos;s reliable and accurate
+                    real-time tracking. Download the app now and enjoy the power
+                    of staying connected every step of the way.
                   </Typography>
                 </div>
               </div>
